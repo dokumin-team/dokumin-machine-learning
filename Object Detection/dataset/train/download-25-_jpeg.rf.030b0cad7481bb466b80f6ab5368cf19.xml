@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>download-25-_jpeg.rf.030b0cad7481bb466b80f6ab5368cf19.jpg</filename>
+	<path>download-25-_jpeg.rf.030b0cad7481bb466b80f6ab5368cf19.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>92</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>13</xmin>
+			<xmax>116</xmax>
+			<ymin>1</ymin>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
