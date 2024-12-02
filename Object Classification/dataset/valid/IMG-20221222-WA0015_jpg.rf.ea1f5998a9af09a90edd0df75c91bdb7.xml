@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG-20221222-WA0015_jpg.rf.ea1f5998a9af09a90edd0df75c91bdb7.jpg</filename>
+	<path>IMG-20221222-WA0015_jpg.rf.ea1f5998a9af09a90edd0df75c91bdb7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KTP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>257</xmax>
+			<ymin>15</ymin>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

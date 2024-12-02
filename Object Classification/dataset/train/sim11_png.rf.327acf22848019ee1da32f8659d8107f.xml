@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>sim11_png.rf.327acf22848019ee1da32f8659d8107f.jpg</filename>
+	<path>sim11_png.rf.327acf22848019ee1da32f8659d8107f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SIM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>30</xmin>
+			<xmax>226</xmax>
+			<ymin>1</ymin>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

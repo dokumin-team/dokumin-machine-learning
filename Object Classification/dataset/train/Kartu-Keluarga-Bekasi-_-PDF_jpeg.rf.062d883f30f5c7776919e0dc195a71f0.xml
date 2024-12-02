@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Kartu-Keluarga-Bekasi-_-PDF_jpeg.rf.062d883f30f5c7776919e0dc195a71f0.jpg</filename>
+	<path>Kartu-Keluarga-Bekasi-_-PDF_jpeg.rf.062d883f30f5c7776919e0dc195a71f0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KK</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>193</xmax>
+			<ymin>2</ymin>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
