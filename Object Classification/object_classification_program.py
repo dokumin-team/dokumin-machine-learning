@@ -39,8 +39,8 @@ def predict_image(h5_model_path, image_path, label_map):
 label_map = {'document': 0, 'KTP': 1, 'KK': 2, 'SIM': 3}
 
 # Path model .h5 dan gambar
-h5_model_path = "model_klasifikasi.h5"  # Ganti dengan path model Anda
-image_path = "image.jpg"  # Ganti dengan path gambar yang ingin diuji
+h5_model_path = "model_klasifikasi.h5"
+image_path = "./dataset/test/00836816_png.rf.5ff458f0e88623400e47569e94c47910.jpg"
 
 # Jalankan prediksi
 predict_image(h5_model_path, image_path, label_map)
