@@ -11,7 +11,7 @@
   - SIM (Driver’s License)
   - General Documents
 
-- **OCR and Classification**: The model helps automate document categorization as part of a larger OCR pipeline.
+- **QR Code Recognition**: The model streamlines image processing to efficiently detect and interpret QR codes with high accuracy.
 
 - **Model Formats**: The trained model is saved in both Keras (.h5) and TensorFlow Lite (.tflite) formats for various deployment options.
 
